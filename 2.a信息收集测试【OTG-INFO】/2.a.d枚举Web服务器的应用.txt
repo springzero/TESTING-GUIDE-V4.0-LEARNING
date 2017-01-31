@@ -14,4 +14,5 @@
 				1.DNS区域传输（利用DNS服务器获取可能的旁站）
 				2.DNS反向查询
 				3.基于Web的DNS查询（http://searchdns.netcraft.com/?host)
-        4.反向IP查询服务
+				4.反向IP查询服务(http://www.dnsstuff.com)
+				5.使用搜索引擎
